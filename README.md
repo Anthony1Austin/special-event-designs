@@ -1,6 +1,11 @@
 # Special Event Designs Website
 
+**Client project** — Standalone website for Special Event Designs. Managed by WebOps Development LLC.
+
 A modern, fully functional website for Special Event Designs - a premier event planning and floral design company specializing in weddings, corporate events, and serving as the official florist for the WM Phoenix Open.
+
+- **Live URL:** _(add after deployment, e.g. specialeventdesigns.com or Vercel URL)_
+- **Run locally:** `npm install` then `npm run dev` → http://localhost:3000
 
 ## Features
 
@@ -113,6 +118,22 @@ Connect forms to your backend:
 - [ ] Virtual tour integration
 - [ ] Blog CMS integration
 - [ ] Analytics (Google Analytics, etc.)
+
+## Version control & GitHub
+
+This repo is initialized locally. To put it on GitHub:
+
+1. **Create a new repository on GitHub** (e.g. `special-event-designs`). Do not add a README, .gitignore, or license (this project already has them).
+
+2. **Add the remote and push:**
+   ```bash
+   cd "/Users/Pivoten/Obiwan/WebOpsDevelopment/Special Event Designs"
+   git remote add origin https://github.com/YOUR_USERNAME/special-event-designs.git
+   git push -u origin main
+   ```
+   (Replace `YOUR_USERNAME` with your GitHub username, or use the SSH URL GitHub shows.)
+
+3. **Optional:** Connect the repo to [Vercel](https://vercel.com) for free hosting; Vercel will detect Next.js and build automatically.
 
 ## License
 

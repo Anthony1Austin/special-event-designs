@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 100" fill="none" role="img" aria-label="Special Event Designs - logo and name">
+  <defs>
+    <style>
+      .emblem-gold { fill: #fbbf24; }
+      .emblem-dark { fill: #1f2937; }
+      .emblem-white { fill: #ffffff; }
+      .text-dark { fill: #1f2937; font-family: Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 24px; letter-spacing: 0.08em; text-anchor: middle; }
+    </style>
+  </defs>
+  <path class="emblem-gold" d="M50 15 L68 38 L50 61 L32 38 Z"/>
+  <path class="emblem-dark" d="M46 22 L62 38 L46 54 L30 38 Z" transform="rotate(-5 46 38)"/>
+  <text class="emblem-white" x="46" y="38" font-family="Georgia, serif" font-weight="700" font-size="26" text-anchor="middle" dominant-baseline="middle">S</text>
+  <text class="text-dark" x="210" y="52">SPECIAL EVENT DESIGNS</text>
+</svg>

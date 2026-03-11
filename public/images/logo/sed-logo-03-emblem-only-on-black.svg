@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 90" fill="none" role="img" aria-label="Special Event Designs emblem on black">
+  <defs>
+    <style>
+      .bg { fill: #000000; }
+      .emblem-gold { fill: #fbbf24; }
+      .emblem-dark { fill: #1f2937; }
+      .emblem-white { fill: #ffffff; }
+    </style>
+  </defs>
+  <rect class="bg" width="80" height="90"/>
+  <path class="emblem-gold" d="M40 5 L75 45 L40 85 L5 45 Z"/>
+  <path class="emblem-dark" d="M40 18 L66 45 L40 72 L14 45 Z" transform="rotate(-5 40 45)"/>
+  <text class="emblem-white" x="40" y="45" font-family="Georgia, serif" font-weight="700" font-size="36" text-anchor="middle" dominant-baseline="middle">S</text>
+</svg>

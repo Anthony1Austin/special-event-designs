@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" fill="none" role="img" aria-label="Special Event Designs - full logo on black">
+  <defs>
+    <style>
+      .bg { fill: #000000; }
+      .emblem-gold { fill: #fbbf24; }
+      .emblem-dark { fill: #1f2937; }
+      .emblem-white { fill: #ffffff; }
+      .text-white { fill: #ffffff; font-family: Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 20px; letter-spacing: 0.08em; }
+      .tagline-gold { fill: #fbbf24; font-family: Arial, sans-serif; font-weight: 600; font-size: 9px; letter-spacing: 0.12em; }
+    </style>
+  </defs>
+  <rect class="bg" width="420" height="100"/>
+  <path class="emblem-gold" d="M50 25 L72 50 L50 75 L28 50 Z"/>
+  <path class="emblem-dark" d="M46 32 L66 50 L46 68 L26 50 Z" transform="rotate(-5 46 50)"/>
+  <text class="emblem-white" x="46" y="50" font-family="Georgia, serif" font-weight="700" font-size="26" text-anchor="middle" dominant-baseline="middle">S</text>
+  <text class="text-white" x="110" y="53">SPECIAL EVENT DESIGNS</text>
+  <text class="tagline-gold" x="110" y="70">ELEVATING THE ART OF FLORAL DESIGN</text>
+</svg>

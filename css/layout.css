@@ -231,7 +231,7 @@
 
 /* Intro section (headline + CTAs below hero) */
 .intro {
-    background-color: var(--color-gray-50);
+    background-color: var(--color-section-alt);
 }
 
 .intro__content {

@@ -38,6 +38,9 @@
     /* Colors - Neutral */
     --color-white: #ffffff;
     --color-black: #000000;
+    /* Page background (warm off-white to match gold theme) */
+    --color-page-bg: #faf8f5;
+    --color-section-alt: #f5f1eb;
     --color-gray-50: #f9fafb;
     --color-gray-100: #f3f4f6;
     --color-gray-200: #e5e7eb;

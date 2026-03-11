@@ -53,7 +53,7 @@
 
 /* Services Preview Section */
 .services-preview {
-    background-color: var(--color-gray-50);
+    background-color: var(--color-section-alt);
 }
 
 .services-grid {
@@ -313,7 +313,7 @@
 
 /* Portfolio Section */
 .portfolio {
-    background-color: var(--color-gray-50);
+    background-color: var(--color-section-alt);
 }
 
 .portfolio-grid {
@@ -378,6 +378,10 @@
     margin-bottom: var(--spacing-sm);
 }
 
+.portfolio-card__overlay .portfolio-card__title {
+    color: var(--color-white);
+}
+
 .portfolio-card__title {
     font-size: var(--font-size-2xl);
     font-weight: var(--font-weight-bold);
@@ -385,9 +389,12 @@
     font-family: var(--font-family-heading);
 }
 
+.portfolio-card__overlay .portfolio-card__description {
+    color: rgba(255, 255, 255, 0.95);
+}
+
 .portfolio-card__description {
     margin-bottom: var(--spacing-md);
-    color: rgba(255, 255, 255, 0.9);
 }
 
 .portfolio-card__link {

@@ -4,6 +4,7 @@
   "private": true,
   "description": "Special Event Designs - Premier event planning and floral design",
   "scripts": {
-    "serve": "npx serve ."
+    "serve": "npx serve .",
+    "build": "node scripts/build-vercel.mjs"
   }
 }
